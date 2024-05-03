@@ -1,0 +1,21 @@
+.container {
+  justify-content: center;
+  align-items: center; 
+  display: flex; 
+  height: 100vh; 
+ 
+}
+.textArea{
+border:solid 1px #123456;
+}
+.textH1{
+    color: #123456;
+}
+.subContainer {
+  justify-content: center;
+  align-items: center; 
+  display: flex; 
+  width: 500px;
+  border:solid 1px #123456;
+  flex-direction: column;
+}
